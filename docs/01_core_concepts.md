@@ -7,7 +7,7 @@
 - [3. What does Gaggimate even do?](#3-what-does-gaggimate-even-do)
 - [4. Profiles](#4-profiles)
 - [5. The Taste of coffee](#5-the-taste-of-coffee)
-- [6. The Lifecircle of a shot](#6-the-lifecircle-of-a-shot)
+- [6. The Lifecircle of a shot (Sour vs. Bitter](#6-the-lifecircle-of-a-shot)
 
 
 # 1. Repeatability and Workflow
@@ -68,7 +68,7 @@ Damians Lever (light - medium)
 
 Adaptive v2 (light - medium)
 
-Automatic pro (light - dark)
+Automatic Pro (light - dark)
 
 All profiles have a sweet spot where they work the best. What they aim at and what to look out for is normally described in the Discord thread of the different profiles. Look at those threads first to get a starting point. Afterwards they need to be tweaked by hand.
 
